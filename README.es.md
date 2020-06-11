@@ -1,5 +1,7 @@
 # Contasimple Desktop
 
+![Contasimple is available for desktop, web and mobile.](images/Contasimple 3000x2000.png)
+
 Leer este documento en [Español](Readme.es.md)  
 Read this document in [English](Readme.md)
 
