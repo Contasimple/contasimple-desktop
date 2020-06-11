@@ -29,7 +29,7 @@ El ecosistema Contasimple te permite acceder a tu información en cualquier mome
 - desde la aplicación Contasimple Desktop, disponible para los sistemas operativos más extendidos (Windows, Linux o Mac OS).
 - desde tu teléfono móvil (a través de las aplicaciones para Android e iOS).
 
-La app Contasimple para iOS puede ser descargada, gratuitamente, desde el [App Store](https://apps.apple.com/us/app/contasimple/id427583930)  
+La app Contasimple para iOS puede ser descargada, gratuitamente, desde el [App Store](https://apps.apple.com/es/app/contasimple/id427583930)  
 La app Contasimple para Android puede ser descargada, también gratuitamente desde [Google Play store](https://play.google.com/store/apps/details?id=com.v2msoft.contasimple)  
 
 Contasimple se ofrece en tres planes de precios:  
