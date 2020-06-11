@@ -1,9 +1,9 @@
 # Contasimple Desktop
 
-![Contasimple is available for desktop, web and mobile.](https://github.com/Contasimple/contasimple-desktop/blob/master/images/Contasimple%203000x2000.png)
+![Contasimple está disponible como aplicación de escritorio, web o app de móvil.](https://github.com/Contasimple/contasimple-desktop/blob/master/images/Contasimple%203000x2000.png)
 
-Leer este documento en [Español](Readme.es.md)  
-Read this document in [English](Readme.md)
+Leer este documento en [Español](README.es.md)  
+Read this document in [English](README.md)
 
 ## Descripción
 

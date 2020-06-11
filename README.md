@@ -1,7 +1,9 @@
 # Contasimple Desktop
 
-Leer este documento en [Español](Readme.es.md)  
-Read this document in [English](Readme.md)
+![Contasimple is available for desktop, web and mobile.](https://github.com/Contasimple/contasimple-desktop/blob/master/images/Contasimple%203000x2000.png)
+
+Leer este documento en [Español](README.es.md)  
+Read this document in [English](README.md)
 
 ## Description
 
