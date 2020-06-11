@@ -1,9 +1,9 @@
 # Contasimple Desktop
 
-Read this document in [Spanish](Readme.es.md)
+Leer este documento en [Español](Readme.es.md)  
 Read this document in [English](Readme.md)
 
-##Description
+## Description
 
 Contasimple Desktop is a Windows, Mac OS X and Linux client to access the Contasimple application. 
 
@@ -27,35 +27,31 @@ Contasimple lets you:
 - etc.
 
 The Contasimple ecosystem allows you to access your information anywhere anytime:
-- from the web (www.contasimple.com)
+- from the web [www.contasimple.com](https://www.contasimple.com)
 - from the Contasimple Desktop client applications available for all major OSs (like Windows, Linux or Mac OS)
 - on the go from your phone (search for Contasimple on the Android and iOS app stores).
 
-The Contasimple iOS app can be downloaded, free of charge, from the App Store:
-https://apps.apple.com/us/app/contasimple/id427583930
+The Contasimple iOS app can be downloaded, free of charge, from the [App Store](https://apps.apple.com/us/app/contasimple/id427583930)  
+The Contasimple Android app, can be downloaded, free of charge too, from the [Google Play store](https://play.google.com/store/apps/details?id=com.v2msoft.contasimple)  
 
-The Contasimple Android app, can be downloaded, free of charge too, from the Google Play store:
-https://play.google.com/store/apps/details?id=com.v2msoft.contasimple
+The application allows its users to work with one of its three pricing plans:  
+- **Basic plan (FREE, as in GRATIS, 0.0€/month)**: this free plan allows users to register up to 50 documents per year.  
+- **Professional plan (from 7.95€/month)**: this plan increases the capacity up to 500 documents/year and grants access to the tax module and to basic reports about the company.  
+- **Ultimate plan (from 11.95€/month)**: this is the unlimited plan, allows the registration of any number of documents and grants access to all modules.  
 
-The application allows its users to work with one of its three pricing plans:
--**Basic plan (FREE, as in GRATIS, 0.0€/month)**: this free plan allows the users to register up to 50 documents per year.
--**Profesional plan (from 7.95€/month)**: this plan increases the capacity up to 500 documents/year and grants access to the tax module and to basic reports about the company.
--**Ultimate plan (from 11.95€/month)**: this is the unlimited plan, allows the registration of any number of documents and grants access to all modules.
+For more detailed information about the pricing and features included in each plan, please visit our [pricing information page](https://www.contasimple.co.uk/prices-of-accounting-and-invoicing-tool)
 
-For more information about the plans, please visit:
-https://www.contasimple.co.uk/prices-of-accounting-and-invoicing-tool
-
-If in doubt if the application will work for you, just try it for yourself, without any obligation, no credit card required. If the free plan works for you there's no need to pay, and if you require any of the paying plans, they are super affordable. 
+If in doubt if the application will work for you, **just try it for yourself, without any obligation, no credit card required**. If the free plan works for you there's no need to pay, and if you require any of the paying plans, they are super affordable. 
  
-Come and join the 250.000 users that rely on Contasimple to manage their business daily!
+**Come and join the 250.000 users that rely on Contasimple to manage their business daily!**
 
-##Support
-If you have any questions, do not hesitate to contact our support team:
-https://www.contasimple.co.uk/contact 
+## Support
+If you have any questions, do not hesitate to contact our [Support team](https://www.contasimple.co.uk/contact)
 
-##Terms and conditions
-https://www.contasimple.co.uk/legal-notes-and-terms
+## Terms and conditions
 
-##Developed by
+We take very seriously privacy, GPDR and any applicable laws. If interested, you can check out our [Terms and conditions](https://www.contasimple.co.uk/legal-notes-and-terms)
+
+## Developed by
 Contasimple S.L.
 
