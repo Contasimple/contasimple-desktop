@@ -29,7 +29,7 @@ Contasimple lets you:
 - etc.
 
 The Contasimple ecosystem allows you to access your information anywhere anytime:
-- from the web [www.contasimple.com](https://www.contasimple.com)
+- from the web [www.contasimple.co.uk](https://www.contasimple.co.uk)
 - from the Contasimple Desktop client applications available for all major OSs (like Windows, Linux or Mac OS)
 - on the go from your phone (search for Contasimple on the Android and iOS app stores).
 
